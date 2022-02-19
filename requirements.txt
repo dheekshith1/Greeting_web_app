@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==1.1.4
 Flask-SQLAlchemy==1.0
 Flask-WTF==0.9.3
 greenlet==1.1.2
